@@ -12,6 +12,21 @@
 	background-repeat: no-repeat;	
 }
 
+
+
+.contenedor3 {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	max-width: 1300px;
+	min-height: 600px;
+	overflow: auto;
+	max-height: 1300px;
+	background:url(".././images/quienes somos.jpg");
+	background-repeat: no-repeat;	
+}
+
+
 .caja{
 	background-color: #000
 	width: 600px;
